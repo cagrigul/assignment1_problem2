@@ -1,5 +1,5 @@
 // Initialize the Leaflet map 
-var map = L.map('map').setView([37.7, -122.4], 10);
+var map = L.map('map').setView([37.7, -122.4], 12);
 
 // Add a tile layer 
 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
